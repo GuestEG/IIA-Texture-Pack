@@ -1,4 +1,4 @@
-# IIA-Texture-Pack
+# Ideal-Industial-Texture-Pack
 
 Texture Pack for IIA (Ideal Industrial Assembly) mod pack for Minecraft.
 
