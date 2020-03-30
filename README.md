@@ -14,12 +14,12 @@ Original texture pack and mod pack are created and maintained by **Sapient**.
 
 ## Как пользоваться этой штукой?
 
-Если вы пришли сюда *просто скачать текстурпак и всё* - то пожалуйста, пройдите в [раздел релизов](https://github.com/GuestEG/IIA-Texture-Pack/releases) и скачайте там самый свежий, нажав на ссылку **Source code (zip)** в Latest Release.
+Если вы пришли сюда *просто скачать текстурпак и всё* - то пожалуйста, пройдите в [раздел релизов](https://github.com/IdealIndustrial/Ideal-Industial-Texture-Pack/releases) и скачайте там самый свежий, нажав на ссылку **Source code (zip)** в Latest Release.
 
 
 ### Увидели что-то плохое? 
 Есть идеи или предложения по раскраске или анимации каких-то блоков или предметов? Просто какие-то замечания?
-Не молчите, а быстро, решительно направляйтесь в раздел проблем [**Issues**](https://github.com/GuestEG/IIA-Texture-Pack/issues) и ~~стучите кулаком по столу~~ пишите там замечание! :+1:
+Не молчите, а быстро, решительно направляйтесь в раздел проблем [**Issues**](https://github.com/IdealIndustrial/Ideal-Industial-Texture-Pack/issues) и ~~стучите кулаком по столу~~ пишите там замечание! :+1:
 Все замечания будут обязательно просмотрены. Нам нужны ваши ~~мозги~~ идеи! :mag:
 
 ### Хотите предложить что-то новое?
@@ -41,4 +41,4 @@ Original texture pack and mod pack are created and maintained by **Sapient**.
    7. Нажмите кнопку **Create pull request**. Всё! :tada: Поздравляю, вы только что отправили свои изменения на глаз мейнтейнеру этого репозитория. Следите за своим предложением!
 
 ### У вас возникли вопросы?
-Смело пишите их в [**Issues**](https://github.com/GuestEG/IIA-Texture-Pack/issues)!
+Смело пишите их в [**Issues**](https://github.com/IdealIndustrial/Ideal-Industial-Texture-Pack/issues)!
