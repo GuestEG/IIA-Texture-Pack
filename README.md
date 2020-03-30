@@ -14,7 +14,7 @@ Original texture pack and mod pack are created and maintained by **Sapient**.
 
 ## Как пользоваться этой штукой?
 
-Если вы пришли сюда *просто скачать текстурпак и всё* - то пожалуйста, пройдите в [раздел релизов](https://github.com/IdealIndustrial/Ideal-Industial-Texture-Pack/releases) и скачайте там самый свежий (пример: IIA.Official.v1.16.0.zip
+Если вы пришли сюда *просто скачать текстурпак и всё* - то пожалуйста, пройдите в [раздел релизов](https://github.com/IdealIndustrial/Ideal-Industial-Texture-Pack/releases) и скачайте там самый свежий (пример: ``IIA.Official.v1.16.0.zip``
 ).
 
 
