@@ -1,6 +1,6 @@
 # Ideal-Industial-Texture-Pack
 
-Texture Pack for IIA (Ideal Industrial Assembly) mod pack for Minecraft.
+Texture Pack for IIA (Ideal Industrial) mod pack for Minecraft.
 
 Пак текстур для сборки ИИС (Идеальная Индустриальная Сборка) под Майнкрафт.
 
